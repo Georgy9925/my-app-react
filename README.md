@@ -1,1 +1,1 @@
-# my-app-vite
+# my-app-react
